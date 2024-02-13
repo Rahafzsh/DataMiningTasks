@@ -1,1 +1,1 @@
-# DataMiningTasks
+# Data Mining Tasks
